@@ -1,0 +1,26 @@
+cost_center_id,functional_area,country_finance,country_physical,budget_owner,stakeholder,size_factor
+CC0001,IT,Italy,Italy,Ewa Bernard,Piotr Smith,0.6
+CC0002,Operations,Netherlands,Netherlands,Olivia Dubois,Sofia Wisniewski,1.0
+CC0003,Operations,France,France,Liam Bianchi,Ewa Dubois,1.0
+CC0004,Finance,Germany,Germany,David Nowak,David Bernard,1.0
+CC0005,Sales,Italy,Italy,Piotr Bakker,Ewa de Jong,1.6
+CC0006,Supply Chain,Germany,Germany,Marek Kowalski,Sofia Wisniewski,1.0
+CC0007,Legal,Spain,Spain,Ewa Muller,Laura Schmidt,1.0
+CC0008,Supply Chain,Germany,Spain,Marek Muller,Katarzyna Rossi,1.0
+CC0009,R&D,Germany,Germany,Julia Nowak,Agnieszka Dubois,1.6
+CC0010,Customer Service,Italy,Italy,Tomasz Kowalczyk,Noah Bianchi,1.0
+CC0011,Sales,Italy,Italy,Anna Dubois,Noah Martinez,1.6
+CC0012,Supply Chain,United States,United States,Marek Kowalski,Maria Kowalczyk,1.0
+CC0013,Sales,Spain,Spain,Marek Nowak,Liam Rossi,1.0
+CC0014,R&D,Poland,Poland,Lukas Bianchi,Anna Muller,1.0
+CC0015,Finance,France,France,Ewa Kowalski,Katarzyna Dubois,1.0
+CC0016,IT,Netherlands,Netherlands,Michal Wisniewski,Lukas Martinez,1.0
+CC0017,Supply Chain,United Kingdom,United Kingdom,Ewa Muller,Jan Muller,0.6
+CC0018,IT,Italy,Italy,Olivia Jones,Jan de Jong,1.0
+CC0019,Operations,United Kingdom,United Kingdom,Noah Wisniewski,Tomasz Kowalczyk,1.0
+CC0020,HR,United States,France,Agnieszka Wisniewski,Agnieszka Bakker,2.4
+CC0021,Finance,Spain,Spain,Liam Bakker,Michal Dubois,1.0
+CC0022,Supply Chain,United Kingdom,United Kingdom,Piotr Nowak,Ewa de Jong,1.0
+CC0023,Supply Chain,Germany,Germany,Julia Rossi,Sofia Wojcik,1.6
+CC0024,IT,Italy,Italy,Noah Garcia,Agnieszka Bianchi,1.0
+CC0025,IT,Spain,Italy,Ewa Dubois,Anna Wojcik,1.0

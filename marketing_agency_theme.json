@@ -1,0 +1,19 @@
+{
+  "name": "Marketing Agency Theme",
+  "dataColors": [
+    "#17A2B8",
+    "#6C5CE7",
+    "#FDCB6E",
+    "#FD79A8",
+    "#E17055",
+    "#74B9FF",
+    "#00B894",
+    "#636E72"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2D3436",
+  "tableAccent": "#17A2B8",
+  "good": "#2ECC71",
+  "bad": "#C0392B",
+  "neutral": "#FDCB6E"
+}

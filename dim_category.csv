@@ -1,0 +1,17 @@
+category_id,cost_type,cost_group,cost_category,base_share
+1,Labor Cost,Salary & Wages,Salary,1.0
+2,Labor Cost,Salary & Wages,Fringe,0.18
+3,Labor Cost,Salary & Wages,Pension,0.08
+4,Labor Cost,Salary & Wages,Bonus,0.1
+5,Labor Cost,Employee Cost,T&E,0.06
+6,Labor Cost,Employee Cost,Auto Lease,0.05
+7,Labor Cost,Employee Cost,Other Benefits,0.04
+8,Non-Labor Cost,Professional Fees,Marketing Fees,0.15
+9,Non-Labor Cost,Professional Fees,Other Fees,0.05
+10,Non-Labor Cost,Professional Fees,Repairs,0.03
+11,Non-Labor Cost,IT Expenses,Licenses,0.09
+12,Non-Labor Cost,IT Expenses,IT Outsourcing,0.12
+13,Non-Labor Cost,IT Expenses,Other Licenses,0.03
+14,Non-Labor Cost,Channel Fees,TikTok,0.08
+15,Non-Labor Cost,Channel Fees,YouTube,0.1
+16,Non-Labor Cost,Channel Fees,Instagram,0.12

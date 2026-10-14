@@ -1,0 +1,16 @@
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local scratch
+*.tmp
